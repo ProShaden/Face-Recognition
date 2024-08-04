@@ -7,6 +7,5 @@ This repositroy shows a code that recognizes faces using an OpenCV library only.
 
 # Result
 
-https://github.com/user-attachments/assets/41f432d1-d395-4558-80d2-8aa217ce19d3
-
+https://github.com/user-attachments/assets/1a191493-8e6c-49ae-95de-5af08df4ea5f
 
